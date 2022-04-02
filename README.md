@@ -13,7 +13,7 @@
 
 ### Description
 
-Creation of an e-commerce oriented to the sale of clothing.
+Creation of an administration panel for users, products and sales.
 
 ### Screenshot
 
